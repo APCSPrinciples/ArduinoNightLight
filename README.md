@@ -7,7 +7,7 @@ You will need the following parts:
 - 1 LED with **two wires** (called "leads") of any color. (**NOT** the white LED with **4** leads)
 - 1 330Ω ("Ohm") resistor and 1 10KΩ resistor
 - 6 jumper wires (the color of the wires doesn't matter, but you may find it convenient to use the same colors in the wiring diagram below) Connect the parts as shown below. Note that the direction of the resistors and jumper wires doesn't matter, but the LED must be connected in the correct direction.
-![](ArduinoNightLightCircuit13.JPG)   
+![](ArduinoNightLightCircuit13.jpg)   
 
 ### Step 2: Write some Scratch code
 One finished program used the following blocks:
