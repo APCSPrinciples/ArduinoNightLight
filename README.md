@@ -12,9 +12,11 @@ You will need the following parts:
 ### Step 2: Write some Scratch code
 One finished program used the following blocks:
 - 1 *forever loop* block
-- 9 *digital on* blocks
-- 9 *digital off* blocks
-- 18 *wait* blocks  
+- 1 *digital on* block
+- 1 *digital off* block
+- 1 *if/else* block
+- 1 *less than* operator block
+- 1 *value of sensor Analog0* block
 
   
 ### Step 3: Save your program to *My Projects*
