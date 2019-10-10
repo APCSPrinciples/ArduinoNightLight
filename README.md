@@ -1,5 +1,5 @@
 # Use an Arduino to make a night light that turns on automatically when its dark
-In this lab you will build a circuit with one LED, one 10KΩ resistor, one 330Ω resistor and one photo resistor. You will then write a program for the Arduino using the [Scratch for Arduino](http://s4a.cat/) language. The program will turn the LED on when photo resistor is in the dark. This is the way street lights work, they have a photo resistor and are programmed to turn on photo resistor is in the dark.    
+In this lab you will build a circuit with one LED, one 10KΩ resistor, one 330Ω resistor and one photo resistor. You will then write a program for the Arduino using the [Scratch for Arduino](http://s4a.cat/) language. The program will turn the LED on when photo resistor is in the dark. This is the way street lights work, they have a photo resistor and are programmed to turn on when that photo resistor is in the dark.    
 
 ### Step 1: Build and test the circuit
 You will need the following parts:
