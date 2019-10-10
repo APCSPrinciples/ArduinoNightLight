@@ -6,6 +6,7 @@ You will need the following parts:
 - 1 LED with two leads of any color. (**NOT** the white LED with **4** leads)
 - 1 330Ω resistor
 - 1 10KΩ resistor
+- 1 photo resistor
 - 6 jumper wires (the color of the wires doesn't matter, but you may find it convenient to use the same colors in the wiring diagram below) Connect the parts as shown below. Note that the direction of the resistors and jumper wires doesn't matter, but the LED must be connected in the correct direction.
 ![](ArduinoNightLightCircuit13.jpg)   
 
