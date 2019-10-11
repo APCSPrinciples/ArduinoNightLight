@@ -9,7 +9,7 @@ You will need the following parts:
 - 1 10KΩ resistor
 - 1 photo resistor    
 - 6 jumper wires (the color of the wires doesn't matter, but you may find it convenient to use the same colors in the wiring diagram below) Connect the parts as shown below. Note that the direction of the resistors and jumper wires don't matter, but the LED must be connected in the correct direction.
-![](ArduinoNightLightCircuit13.jpg)   
+![](ArduinoNightLightCircuit13b.jpg)   
 
 ### Step 2: Test the circuit
 Test your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the **Analog0** sensor. You can see the value of **Analog0** in the sensors display shown below.   
